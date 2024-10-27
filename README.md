@@ -51,11 +51,3 @@ A simple web-based calculator inspired by the classic Casio calculator style. Th
 - **CSS3** - Styling to mimic the Casio calculator
 - **JavaScript** - Calculator logic and interactivity
 
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`feature/new-feature`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/new-feature`).
-5. Create a new Pull Request.
-
